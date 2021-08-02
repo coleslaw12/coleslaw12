@@ -4,6 +4,13 @@
 
 - With this I am learning Python! Got tips, please send them my way!
 
+
+- I also run two Discord servers!
+
+The Frontier = https://discord.gg/RGD2GRP
+
+Anomaly Advertising = https://discord.gg/Y7T2k2QN2p
+
 Feel Free to reach me on Discord at Salem#4874
 <!--
 **coleslaw12/coleslaw12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
